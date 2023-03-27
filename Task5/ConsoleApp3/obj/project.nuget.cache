@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2deUP2zHaZdizTme6Da+wB0Dk7AxKJ0GqMBGJw1jRd8ZplLjfYUrXeb7OtfL2Lf+NFZ9aYKzgwCYfAM/OS3Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_cheepa\\RiderProjects\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_cheepa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gr612_cheepa\\.nuget\\packages\\npgsql\\8.0.0-preview.2\\npgsql.8.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\gr612_cheepa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
